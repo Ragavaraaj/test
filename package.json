@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "availity-reactstrap-validation": "^2.6.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "es6-promise": "^4.2.8",
     "react": "^16.9.0",
